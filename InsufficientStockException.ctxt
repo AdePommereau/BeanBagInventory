@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InsufficientStockException
+comment0.text=\r\n\ InsufficientStockException.\r\n\ \r\n\ @author\ Jonathan\ Fieldsend\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=InsufficientStockException()
+comment1.text=\r\n\ Constructs\ an\ instance\ of\ the\ exception\ with\ no\ message\r\n
+comment2.params=message
+comment2.target=InsufficientStockException(java.lang.String)
+comment2.text=\r\n\ Constructs\ an\ instance\ of\ the\ exception\ containing\ the\ message\ argument\r\n\ \r\n\ @param\ message\ \ \ message\ containing\ details\ regarding\ the\ exception\ cause\r\n
+numComments=3
